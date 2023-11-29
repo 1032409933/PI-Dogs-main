@@ -14,6 +14,7 @@ const cleanArray = (arr) =>
             Altura:elem.height.imperial,
             Peso:elem.weight.imperial,
             Años_de_vida:elem.life_span,
+            Temperamentos:elem.temperament,
             Created:false,
         };
     });
